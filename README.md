@@ -20,4 +20,4 @@ This games shows how a single man with his determined will fights against all od
 * MD. Rayhanul Islam - University of Rajshahi,Bangladesh
 * Rahat Siddique - University of Rajshahi,Bangladesh
 ### Game Video Link : 
-*[https://drive.google.com/file/d/1ymYbhyKz-PuP23T8XhOxvC3SvlFij24E/view?usp=sharing]
+* [Game Video Link](https://drive.google.com/file/d/1ymYbhyKz-PuP23T8XhOxvC3SvlFij24E/view?usp=sharing)
