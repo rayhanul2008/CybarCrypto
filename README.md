@@ -16,7 +16,7 @@ This games shows how a single man with his determined will fights against all od
 2.	It’s coded in C++ and STL is used in our coding.
 3.	We used Visual Studio to use graphical interface with our window and hardware.
 # Team members :
-* Abu Rayhan Siddike - University of Rajshahi,Bangladesh
-* MD. Rayhanul Islam - University of Rajshahi,Bangladesh
-* Rahat Siddique - University of Rajshahi,Bangladesh
+* [Abu Rayhan Siddike](https://www.facebook.com/profile.php?id=100007892054710)
+* [MD.Rayhanul Islam](https://www.facebook.com/mdrayhanulislam.mukul.3/)
+* [Rahat Siddique](https://www.facebook.com/rahatsiddique.ru/)
 ### [Game Video Link](https://drive.google.com/file/d/1ymYbhyKz-PuP23T8XhOxvC3SvlFij24E/view?usp=sharing)
