@@ -1,5 +1,5 @@
 # ======== Game Project Proposal ========
-###* [Game Name : Space Battle Rescue]
+### Game Name : Space Battle Rescue
 # Game description :
 ### Game Story     : 
 This a 2-D adventure game, based on an interesting story. 
@@ -19,4 +19,4 @@ This games shows how a single man with his determined will fights against all od
 * Abu Rayhan Siddike - University of Rajshahi,Bangladesh
 * MD. Rayhanul Islam - University of Rajshahi,Bangladesh
 * Rahat Siddique - University of Rajshahi,Bangladesh
-### Game Video Link : https://drive.google.com/file/d/1ymYbhyKz-PuP23T8XhOxvC3SvlFij24E/view?usp=sharing
+### Game Video Link : [https://drive.google.com/file/d/1ymYbhyKz-PuP23T8XhOxvC3SvlFij24E/view?usp=sharing]
