@@ -1,0 +1,40 @@
+﻿  Main.cpp
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(178,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(223,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(247,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(448,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(572,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(741,112): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(795,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(1054,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(1151,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(593): warning C4715: 'Window4': not all control paths return a value
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(890): warning C4715: 'Window3': not all control paths return a value
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(469): warning C4715: 'Window5': not all control paths return a value
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(349): warning C4715: 'Window6': not all control paths return a value
+C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\CybadCrypto\Main.cpp(1075): warning C4715: 'Window2': not all control paths return a value
+  CybadCrypto.vcxproj -> C:\Users\ASUS\OneDrive\Desktop\CybarCrypto\CybadCrypto\Debug\CybadCrypto.exe
