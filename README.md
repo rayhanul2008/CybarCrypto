@@ -1,4 +1,4 @@
-# |========> Game Project Proposal <========|
+# =========> Game Project Proposal <=========
 ### Game Name : Space Battle Rescue
 # Game description :
 ### * Game Story: 
@@ -17,6 +17,6 @@ This games shows how a single man with his determined will fights against all od
 3.	We used Visual Studio to use graphical interface with our window and hardware.
 # Team members :
 * [Abu Rayhan Siddike](https://www.facebook.com/profile.php?id=100007892054710)
-* [MD.Rayhanul Islam](https://www.facebook.com/mdrayhanulislam.mukul.3/)
+* [Md.Rayhanul Islam](https://www.facebook.com/mdrayhanulislam.mukul.3/)
 * [Rahat Siddique](https://www.facebook.com/rahatsiddique.ru/)
 # [Game Video Link](https://drive.google.com/file/d/1ymYbhyKz-PuP23T8XhOxvC3SvlFij24E/view?usp=sharing)
