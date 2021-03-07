@@ -1,5 +1,5 @@
 # ======== Game Project Proposal ========
-### [Game Name : Space Battle Rescue]
+###* [Game Name : Space Battle Rescue]
 # Game description :
 ### Game Story     : 
 This a 2-D adventure game, based on an interesting story. 
