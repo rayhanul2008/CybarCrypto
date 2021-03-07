@@ -1,4 +1,4 @@
-# Game Project Proposal 
+# ===== Game Project Proposal =====
 ###  Game Name : Space Battle Rescue
 # Game description 
 ### Game Story     : 
